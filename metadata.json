@@ -1,0 +1,8 @@
+{
+  "name": "UniRido",
+  "description": "Student-only peer-to-peer morning bike pooling pilot for REVA University, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
